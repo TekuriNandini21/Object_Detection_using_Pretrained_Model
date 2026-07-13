@@ -44,10 +44,6 @@ The dataset contains:
 - Python
 - Kaggle Notebook
 - Ultralytics YOLOv8
-- PyTorch
-- OpenCV
-- NumPy
-
 ---
 
 ## Project Workflow
